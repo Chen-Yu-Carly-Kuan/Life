@@ -15,3 +15,13 @@ Sound
 Future
 -
 [100jobs](https://100jobsofthefuture.com/)
+
+Book
+-
+[Audible Stories](https://stories.audible.com/discovery)
+
+
+Show
+-
+
+[BroadwayHD](https://www.broadwayhd.com/)

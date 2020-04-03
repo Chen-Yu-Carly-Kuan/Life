@@ -25,3 +25,9 @@ Show
 -
 
 [BroadwayHD](https://www.broadwayhd.com/)
+
+
+Science
+-
+
+[Ten Simple Rules for Increased Lab Resilience](https://ecoevorxiv.org/a6jyk)

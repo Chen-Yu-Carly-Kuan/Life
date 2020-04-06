@@ -7,6 +7,8 @@ Science
 
 [Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914)
 
+[Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
+
 [Games academics play and their consequences: how authorship, h-index and journal impact factors are shaping the future of academia](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2047)
 
 Dance

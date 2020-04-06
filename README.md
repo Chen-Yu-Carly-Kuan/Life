@@ -11,6 +11,8 @@ Science
 
 [Games academics play and their consequences: how authorship, h-index and journal impact factors are shaping the future of academia](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2047)
 
+[Don’t Teach, Inspire](https://academic-chatter.com/blog/dont-teach-inspire/)
+
 Dance
 -
 

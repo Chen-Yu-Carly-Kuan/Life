@@ -13,6 +13,8 @@ Science-the future
 
 [Don’t Teach, Inspire](https://academic-chatter.com/blog/dont-teach-inspire/)
 
+[Prospective PhD advisors](https://hfstevance.com/blog/2019/10/23/switch2)
+
 Dance
 -
 

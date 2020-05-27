@@ -3,8 +3,6 @@
 Science-the future
 -
 
-[Inbox Zero](https://inboxze.ro/)
-
 [Ten Simple Rules for Increased Lab Resilience](https://ecoevorxiv.org/a6jyk)
 
 [Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914)
